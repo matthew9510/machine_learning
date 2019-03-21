@@ -1,4 +1,4 @@
-### Assignment05 README
+### Assignment05
 
 [Assignment instructions](HA5.docx)
 

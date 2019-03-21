@@ -1,4 +1,4 @@
-### Assignment06 README
+### Assignment06
 
 [Assignment instructions](ha6.docx)
 

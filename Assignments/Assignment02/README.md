@@ -1,4 +1,4 @@
-### Assignment02 README
+### Assignment02
 
 [Assignment instructions](HA2.docx)
 

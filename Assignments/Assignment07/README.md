@@ -1,4 +1,4 @@
-### Assignment07 README
+### Assignment07
 
 [Assignment instructions](HA7.docx)
 

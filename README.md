@@ -12,5 +12,4 @@ For a more in depth description of what each assignment focused on please check 
 - [Assignment05 README](Assignments/Assignment05/README.md)
 - [Assignment06 README](Assignments/Assignment06/README.md)
 - [Assignment07 README](Assignments/Assignment07/README.md)
-- [Assignment08 README](Assignments/Assignment08/README.md)
 - [Research Material](Research)
