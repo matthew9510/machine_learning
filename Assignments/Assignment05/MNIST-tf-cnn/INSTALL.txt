@@ -1,0 +1,27 @@
+Python 3 is recommended for this lab. Python 2 works as well if you adapt the installation instructions.
+
+Installation instructions for straightforward pip install below.
+
+MacOS:
+	pip3 install --upgrade tensorflow
+	pip3 install --upgrade matplotlib
+
+Ubuntu/Linux:
+	sudo -H apt-get install git
+	sudo -H apt-get install python3
+	sudo -H apt-get install python3-matplotlib
+	sudo -H apt-get install python3-pip
+	sudo -H pip3 install --upgrade tensorflow
+	# you might alo need to upgrade matplotlib, the version pulled by
+	# apt-get is sometimes stale (but comes with the gfx backend)
+	sudo -H pip3 install --upgrade matplotlib
+
+Windows:
+	Install Anaconda, Python 3 version: https://www.continuum.io/downloads#windows
+	Anaconda comes with matplotlib built in.
+	In the Anaconda shell type: pip install --upgrade tensorflow
+		If you get the error "Could not find a version that satisfies the requirement (...)" try the following alternative:
+		conda config --add channels conda-forge
+		conda install tensorflow
+
+

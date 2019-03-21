@@ -1,0 +1,11 @@
+# Ignore jetbrains ide files
+.idea
+
+# Ignore venv folders
+venv
+ 
+# Ignore __pycache__ 
+__pycache__
+
+# Ignore python compiled bytecode 
+*.pyc
